@@ -1,0 +1,25 @@
+body {
+    text-size-adjust: 100%;
+     font-family: Verdana, Tahoma, sans-serif;
+    background-color: rgb(245, 245, 239);
+}
+
+.top_banneri {
+    background-color: #004225;
+    color: antiquewhite;
+}
+#site_logo {
+    width: 80px;
+    padding: 20px;
+    
+}
+
+footer {
+    background-color: black;
+    color: antiquewhite;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+
+
